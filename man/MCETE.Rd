@@ -48,7 +48,7 @@ Heimlicher, S., Karaliopoulos, M., Levy, H., & May, M. (2007). End-to-end vs. Ho
 Christian E. Galarza and Jonathan M. Olate
 }
 \seealso{
-\code{\link{ETE}}
+\code{\link{ETE}},\code{\link{stochastic_ETE}}
 }
 \examples{
 #Monte Carlo simulations for an N=5 End to End system

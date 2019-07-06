@@ -49,7 +49,7 @@ Heimlicher, S., Karaliopoulos, M., Levy, H., & May, M. (2007). End-to-end vs. Ho
 Christian E. Galarza and Jonathan M. Olate
 }
 \seealso{
-\code{\link{MCETE}}
+\code{\link{MCETE}},\code{\link{stochastic_ETE}}
 }
 \examples{
 #An N=5 End to End system with limited L=7 retransmission per hop
